@@ -27,17 +27,6 @@ You can download the APK file of the application from the following link:
 
 [Download Driving School Learning App](https://mega.nz/file/VCc3EDRR#Z_59mgW3NVYbF3IO1v2lnmSA-2G1OV4dsArzqh0FOps)
 
-## Contributing
-
-All contributions are welcome! Please follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature-name`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add some feature'`).
-5. Push to the branch (`git push origin feature/your-feature-name`).
-6. Create a new Pull Request.
-
 ## Acknowledgements
 
 - Flutter team for developing this outstanding mobile app development tool.
